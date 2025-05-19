@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for kenpachi11zx -->
 
 <h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hey,+what's+up%3F;Welcome+to+Kenpachi's+GitHub+Space!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hey,+what's+up%3F;Welcome+to+my+profile" />
 </h1>
 
 ---
