@@ -1,44 +1,49 @@
-👋 Yo, I'm Kenpachi!
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-🚀 About Me
+###
 
-B.Tech CSE student who pretends to be a software engineer. Love AI, coding, and breaking stuff (mostly fixing it later).
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-💻 Skills
+###
 
-Languages: Java, Python, HTML, CSS (and occasional Googling)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-Tech: Web Dev, AI-powered apps, UI/UX (aka making things pretty)
+###
 
-Tools: VS Code, GitHub, Firebase (yes, I use Git)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-🛠️ Projects
+###
 
-KazHub – College app because why not?
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-Interactive Web Invite – Proposed via code, setting the bar high.
+###
 
-AI Scheduler (WIP) – Because remembering things is overrated.
+<br clear="both">
 
-📌 Work Experience
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-Worked for Angel One, MyHealthBuddy, Epia Woman, EGA Wellness, Dr. Sheth's as a freelancer.
-
-🎯 Goals
-
-Build AI that does my work.
-
-Open-source because sharing is caring.
-
-Make UI/UX so smooth it hypnotizes users.
-
-📫 Stalk Me
-
-GitHub: Kenpachi
-
-LinkedIn: Sahil Islam
-
-Email: sahilislam619@gmail.com
-
-🔥 "Code like a boss. Debug like a detective."
-
+###
