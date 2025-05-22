@@ -10,7 +10,7 @@
 
 <p align="center">
   🔭 Currently working on <strong>Data Analytics</strong> & <strong>Full Stack Web Projects</strong><br>
-  🌱 Learning <strong>Machine Learning</strong>, <strong>Cloud Technologies</strong>, and <strong>Advanced Python</strong><br>
+  🌱 Learning <strong>.NetCore</strong>, <strong>Cloud Technologies</strong>, and <strong>Advanced Python</strong><br>
   🤝 Open to collaboration on open-source and impactful projects<br>
   📫 Reach me at: <a href="mailto:opnayan029@gmail.com">opnayan029@gmail.com</a> or <a href="https://www.linkedin.com/in/sahil-islam-b1955825a/" target="_blank">LinkedIn</a>
 </p>
