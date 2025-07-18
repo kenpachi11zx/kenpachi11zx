@@ -22,23 +22,45 @@
 
 ---
 
-<h2 align="center">🚀 Language & Tools</h2>
+<h2 align="center">🚀 My Tech Stack</h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Programming Languages</b><br><img src="https://skillicons.dev/icons?i=js,ts,java,python,cs" height="40"/></td>
-      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,react" height="40"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=dotnet" height="40"/></td>
-      <td align="center"><b>Database</b><br><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>DevOps</b><br><img src="https://skillicons.dev/icons?i=git,github" height="40"/></td>
-      <td align="center"><b>Software/Design</b><br><img src="https://skillicons.dev/icons?i=figma,vscode" height="40"/></td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>👨‍💻 Programming</strong><br>
+      <img src="https://skillicons.dev/icons?i=java,python,cs" height="35" />
+    </td>
+    <td align="center">
+      <strong>🎨 Frontend</strong><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="35" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>🔧 Backend</strong><br>
+      <img src="https://skillicons.dev/icons?i=dotnet" height="35" />
+    </td>
+    <td align="center">
+      <strong>💽 Database</strong><br>
+      <img src="https://skillicons.dev/icons?i=mysql" height="35" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>⚙️ DevOps</strong><br>
+      <img src="https://skillicons.dev/icons?i=git,github" height="35" />
+    </td>
+    <td align="center">
+      <strong>🧰 Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=figma,vscode" height="35" />
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="35" title="Visual Studio 2022" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
