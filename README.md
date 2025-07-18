@@ -24,14 +24,24 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML5, CSS3, JavaScript, TypeScript" />
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet" title="Python, Java, C#, .NET" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma" title="Git, GitHub, MySQL, Figma" />
-</p>
+<h2 align="center">🚀 Language & Tools</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Programming Languages</b><br><img src="https://skillicons.dev/icons?i=js,ts,java,python,cs" height="40"/></td>
+      <td align="center"><b>Frontend</b><br><img src="https://skillicons.dev/icons?i=html,css,react" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend</b><br><img src="https://skillicons.dev/icons?i=dotnet" height="40"/></td>
+      <td align="center"><b>Database</b><br><img src="https://skillicons.dev/icons?i=mysql" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="center"><b>DevOps</b><br><img src="https://skillicons.dev/icons?i=git,github" height="40"/></td>
+      <td align="center"><b>Software/Design</b><br><img src="https://skillicons.dev/icons?i=figma,vscode" height="40"/></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
