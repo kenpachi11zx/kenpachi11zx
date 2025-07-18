@@ -6,6 +6,17 @@
 
 ---
 
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Hey,+what's+up%3F;Welcome+to+my+profile" />
+</h1>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="400" />
+</p>
+
+
+---
+
 <h2 align="center">About Me</h2>
 
 <p align="center">
