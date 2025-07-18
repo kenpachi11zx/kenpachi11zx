@@ -22,8 +22,6 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
 <h2 align="center">🚀 Language & Tools</h2>
 
 <div align="center">
