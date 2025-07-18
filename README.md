@@ -63,7 +63,6 @@
       <strong>Tools & IDEs</strong><br><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="30" alt="Visual Studio 2022" />
     </td>
   </tr>
 </table>
