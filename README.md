@@ -22,41 +22,48 @@
 
 ---
 
-<h2 align="center">🚀 My Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <strong>👨‍💻 Programming</strong><br>
-      <img src="https://skillicons.dev/icons?i=java,python,cs" height="35" />
+    <td align="center" width="250">
+      <strong>Programming Languages</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
     </td>
-    <td align="center">
-      <strong>🎨 Frontend</strong><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" height="35" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <strong>🔧 Backend</strong><br>
-      <img src="https://skillicons.dev/icons?i=dotnet" height="35" />
-    </td>
-    <td align="center">
-      <strong>💽 Database</strong><br>
-      <img src="https://skillicons.dev/icons?i=mysql" height="35" />
+    <td align="center" width="250">
+      <strong>Frontend Development</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <strong>⚙️ DevOps</strong><br>
-      <img src="https://skillicons.dev/icons?i=git,github" height="35" />
+      <strong>Backend & Frameworks</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET" />
     </td>
     <td align="center">
-      <strong>🧰 Tools</strong><br>
-      <img src="https://skillicons.dev/icons?i=figma,vscode" height="35" />
-      <br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="35" title="Visual Studio 2022" />
+      <strong>Database</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>Version Control & DevOps</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
+    </td>
+    <td align="center">
+      <strong>Tools & IDEs</strong><br><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2022.svg" height="30" alt="Visual Studio 2022" />
     </td>
   </tr>
 </table>
