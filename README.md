@@ -22,10 +22,15 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,express,git,github,vscode,mysql,figma" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" title="HTML5, CSS3, JavaScript, TypeScript" />
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=python,java,cs,dotnet" title="Python, Java, C#, .NET" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,figma" title="Git, GitHub, MySQL, Figma" />
 </p>
 
 ---
